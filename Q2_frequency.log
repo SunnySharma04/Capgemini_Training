@@ -1,0 +1,2 @@
+2026-02-20 15:57:31,511 - INFO - counting the freq of the charcater
+2026-02-20 15:57:31,512 - INFO - Frequency count calculated: {'a': 2, 'e': 1, 'i': 1, 'o': 1, 'u': 1}
