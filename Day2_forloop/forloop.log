@@ -1,0 +1,14 @@
+2026-02-22 12:37:10,686 - INFO - Counting vowels in string
+2026-02-22 12:37:10,686 - INFO - Vowel count: 3
+2026-02-22 12:37:42,289 - INFO - Calculating character frequency
+2026-02-22 12:37:42,289 - INFO - Character frequency: {'h': 1, 'e': 1, 'l': 2, 'o': 1}
+2026-02-22 12:38:19,131 - INFO - Finding second largest element
+2026-02-22 12:38:19,131 - INFO - Second largest element: 45
+2026-02-22 12:38:54,484 - INFO - Checking if list is sorted
+2026-02-22 12:38:54,484 - INFO - List is sorted
+2026-02-22 12:39:54,461 - INFO - Reversing string
+2026-02-22 12:39:54,461 - INFO - Reversed string: ynnuS
+2026-02-22 12:40:16,642 - INFO - Removing duplicates from list
+2026-02-22 12:40:16,642 - INFO - List after removing duplicates: [1, 2, 3, 4, 5]
+2026-02-22 12:41:16,402 - INFO - Finding missing number
+2026-02-22 12:41:16,403 - INFO - Missing number: 3
